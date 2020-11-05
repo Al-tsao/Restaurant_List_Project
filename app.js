@@ -30,5 +30,5 @@ app.get('/:restaurant_id', (req, res) => {
 
 // start and listen on the Express server
 app.listen(port, () => {
-  console.log('Restaurnat Go live')
+  console.log('Restaurant List Project Go live')
 })
